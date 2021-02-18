@@ -1,2 +1,2 @@
 # Paint
-Paint with canvas api
+Old project. Paint with canvas api 
